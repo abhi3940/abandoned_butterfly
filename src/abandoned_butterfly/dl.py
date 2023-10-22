@@ -574,19 +574,19 @@ label = label[0][0]
 # print the classification
 print('%s (%.2f%%)' % (label[1], label[2]*100))"""
 
-def ass2():
+def asg2():
     print(ass2s)
 
-def ass3():
+def asg3():
     print(ass3s)
 
-def ass4():
+def asg4():
     print(ass4s)
 
-def ass5():
+def asg5():
     print(ass5s)
 
-def ass6():
+def asg6():
     print(ass6s)
 
-ass5()
+
